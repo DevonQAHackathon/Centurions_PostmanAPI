@@ -1,0 +1,4 @@
+-Scrips to perform unit tests for the data values generated
+- created mock URL
+- Collections to integrate tests
+- Monitor to check performance, request split - for viewing all requests on regions specified
